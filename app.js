@@ -17,3 +17,11 @@ console.log(numberVariable);
 console.log(resultNumberVariable);
 window.document.write(resultNumberVariable);
 
+// Variable Names Legal & Illegal
+var legalVariable = "All Variable are legal that are in camel case, and can't contain the special character except $ and _ sign.";
+var illegalVariable = "All Variable are illegal that having not camel case, and special letter in it, ";
+console.log(legalVariable);
+console.log(illegalVariable);
+window.document.write(legalVariable);
+window.document.write(illegalVariable);
+
