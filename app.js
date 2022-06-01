@@ -54,4 +54,16 @@ console.log(mathExpression3);
 console.log(resultMathExpression3);
 window.document.write(resultMathExpression3);
 
+// Math Expression (Unfamiliar Operation)
+// Example 
+var unfamiliarExpression = Number(prompt("Please select the number of shirts, You want to purchase. "));
+var unfamiliarExpression1 = Number(prompt("Please select the numbers of pents, You wants to purchase. "));
+var resultUnfamiliarExpression = unfamiliarExpression + unfamiliarExpression1 + ". " ;
+console.log(unfamiliarExpression);
+console.log(unfamiliarExpression1);
+window.document.write(resultUnfamiliarExpression);
+
+
+
+
 
